@@ -2,7 +2,7 @@
 zuul:
   routes:
     usermanager:
-      path: /user/**
+      path: /config/**
       serviceId: ECO-MONITOR-USER
   #排除某些不需要的路由
   ignored-patterns:
