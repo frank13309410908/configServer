@@ -2,8 +2,8 @@ env: dev1
 spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/xiaofd_db?useUnicode=true&characterEncoding=UTF-8&&serverTimezone=UTC
-    username: root11
-    password: hello123411
+    username: root
+    password: hello1234
 security:
   uname: test11
   pwd: test1
