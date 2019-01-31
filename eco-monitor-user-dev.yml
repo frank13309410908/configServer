@@ -3,7 +3,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/xiaofd_db?useUnicode=true&characterEncoding=UTF-8&&serverTimezone=UTC
     username: root
-    password: hello1234111
+    password: hello123411111
 security:
   uname: test1
   pwd: test1
