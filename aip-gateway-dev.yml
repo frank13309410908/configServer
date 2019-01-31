@@ -1,9 +1,5 @@
-#自定义路由规则
 zuul:
   routes:
-    usermanager:
-      path: /config/**
-      serviceId: ECO-MONITOR-USER
-  #排除某些不需要的路由
-  ignored-patterns:
-    - /**/config/test
+    app-a:
+      path: /user/**
+      serviceId: eco-monitor-user
