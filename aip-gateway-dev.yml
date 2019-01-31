@@ -6,4 +6,4 @@ zuul:
       serviceId: eco-monitor-user
   #排除某些不需要的路由
   ignored-patterns:
-    - /**/config/test
+    - /**/config/test1
