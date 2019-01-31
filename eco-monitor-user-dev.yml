@@ -5,5 +5,5 @@ spring:
     username: root11
     password: hello123411
 security:
-  uname: test1
+  uname: test11
   pwd: test1
